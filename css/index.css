@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(219, 185, 251);
+}
+.principal-container{
+    margin: 10vw 10vw 0 10vw;
+}
+.tab-content{
+    background-color: #ffffff;
+}
+.nav-tabs .nav-link {
+    color: black;
+    font-weight: 600;
+}
+#copiar1,#copiar2{
+	background-color: black !important;	
+}
